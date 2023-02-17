@@ -1,4 +1,4 @@
-# Capstone-Module-3
+# Capstone-Project-3
 ## E-commerce Customer Churn
 Perusahaan electronic commerce (E-commerce) atau perdagangan elektronik adalah perusahaan yang melakukan kegiatan jual atau beli secara online dengan menggunakan internet. Perusahan e-commerce perlu melakukan evaluasi pelanggan untuk mengetahui customer churn pada perusahaan.
 <br>
